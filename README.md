@@ -25,3 +25,9 @@ This step covers connecting to your Azure Virtual Machines using Azure Bastion f
 [📺 View the interactive tutorial on Scribe](https://scribehow.com/embed/Azure_Workflow__-HdhrMdgTU-6Z87EwESTeA)
 
 This step covers installing and configuring nginx on your Azure Virtual Machine. For more details, see [Install_Nginx.md](Install_Nginx.md)
+
+### STEP5: Create a HTML Page into Nginx and Restart Nginx
+
+[📺 View the interactive tutorial on Scribe](https://scribehow.com/embed/Azure_Workflow__wnc-Y813RXaq-j1S7Li9vw)
+
+This step covers creating an HTML page and deploying it to nginx, then restarting the nginx service. For more details, see [Create_HTML_Nginx.md](Create_HTML_Nginx.md)
