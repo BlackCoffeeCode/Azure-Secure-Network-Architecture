@@ -7,3 +7,9 @@
 [📺 View the interactive tutorial on Scribe](https://scribehow.com/embed/Creating_an_Azure_Virtual_Network_with_Bastion_and_Firewall__EfzvlzeyQlWKsSpJca8a_w)
 
 This step covers creating an Azure Virtual Network with Bastion and Firewall components. For more details, see [VNet.md](VNet.md)
+
+### STEP2: Create a Virtual Machine inside the VNet
+
+[📺 View the interactive tutorial on Scribe](https://scribehow.com/embed/Step_2_Create_A_Virtual_Machine_In_Azure__2QE7CmsjSZmivpwankbVtA)
+
+This step covers creating a virtual machine within your Azure Virtual Network. For more details, see [Virtual_Machine.md](Virtual_Machine.md)
