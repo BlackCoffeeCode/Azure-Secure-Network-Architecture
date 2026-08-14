@@ -31,3 +31,9 @@ This step covers installing and configuring nginx on your Azure Virtual Machine.
 [📺 View the interactive tutorial on Scribe](https://scribehow.com/embed/Azure_Workflow__wnc-Y813RXaq-j1S7Li9vw)
 
 This step covers creating an HTML page and deploying it to nginx, then restarting the nginx service. For more details, see [Create_HTML_Nginx.md](Create_HTML_Nginx.md)
+
+### STEP6: Configure the Firewall
+
+[📺 View the interactive tutorial on Scribe](https://scribehow.com/embed/Configuring_A_DNAT_Rule_For_Azure_Firewall__v9mxQ5nCRhy5Wqa2z24jnA)
+
+This step covers configuring Azure Firewall with DNAT rules to manage traffic to your resources. For more details, see [Configure_Firewall.md](Configure_Firewall.md)
